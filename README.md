@@ -19,5 +19,5 @@
     🔧 Hugging Face `transformers` and `torch` libraries
 
 ### Setup Instructions
-   ## Install required libraries:
+   #### Install required libraries:
         ⬇️pip install transformers torch
