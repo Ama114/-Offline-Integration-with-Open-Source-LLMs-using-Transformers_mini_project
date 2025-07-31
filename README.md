@@ -17,3 +17,7 @@
 ### Tools Required
     🔧 Python environment (Anaconda, Jupyter Notebook, or plain Python)
     🔧 Hugging Face `transformers` and `torch` libraries
+
+### Setup Instructions
+   ## Install required libraries:
+        ⬇️pip install transformers torch
