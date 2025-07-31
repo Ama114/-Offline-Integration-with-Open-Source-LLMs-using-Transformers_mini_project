@@ -20,7 +20,7 @@
 
 ### Setup Instructions
    #### ⬇️Install required libraries:
-           ⬇pip install transformers torch
+     ⬇pip install transformers torch
 
 ### Scenario
     You are developing a writing assistant tool that helps users brainstorm ideas for
