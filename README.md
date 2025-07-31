@@ -21,3 +21,8 @@
 ### Setup Instructions
    #### Install required libraries:
         ⬇️pip install transformers torch
+
+### Scenario
+    You are developing a writing assistant tool that helps users brainstorm ideas for
+    articles. Use GPT-2 to generate 3 possible titles for a blog post on 'climate change and
+    technology'. Modify the `prompt` to match this topic and set `num_return_sequences=3`.
