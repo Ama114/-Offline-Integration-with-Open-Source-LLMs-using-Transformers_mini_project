@@ -14,13 +14,13 @@
      ✅ Basic Python programming skills
      ✅ Internet connection (only for initial model download)
      ✅ A computer with enough memory (at least 4GB RAM recommended)
-### Tools Required
-    🔧 Python environment (Anaconda, Jupyter Notebook, or plain Python)
-    🔧 Hugging Face `transformers` and `torch` libraries
+### 🔧Tools Required
+       Python environment (Anaconda, Jupyter Notebook, or plain Python)
+       Hugging Face `transformers` and `torch` libraries
 
 ### Setup Instructions
-   #### Install required libraries:
-        ⬇️pip install transformers torch
+   #### ⬇️Install required libraries:
+           ⬇pip install transformers torch
 
 ### Scenario
     You are developing a writing assistant tool that helps users brainstorm ideas for
