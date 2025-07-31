@@ -15,8 +15,8 @@
      ✅ Internet connection (only for initial model download)
      ✅ A computer with enough memory (at least 4GB RAM recommended)
 ### 🔧Tools Required
-       Python environment (Anaconda, Jupyter Notebook, or plain Python)
-       Hugging Face `transformers` and `torch` libraries
+      Python environment (Anaconda, Jupyter Notebook, or plain Python)
+      Hugging Face `transformers` and `torch` libraries
 
 ### Setup Instructions
    #### ⬇️Install required libraries:
